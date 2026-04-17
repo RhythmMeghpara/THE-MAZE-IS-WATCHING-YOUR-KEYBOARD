@@ -1,6 +1,7 @@
 # THE-MAZE-IS-WATCHING-YOUR-KEYBOARD
 
-A Python maze game built with Pygame. The player chooses a custom letter and difficulty mode, then navigates a maze shaped like that letter to reach the exit.
+A Python maze game built with Pygame. The player chooses a custom letter and difficulty mode, then navigates a maze shaped like that letter to reach the exit. Built with the help of AI.
+
 
 ## Features
 
